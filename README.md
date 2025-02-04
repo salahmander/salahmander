@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📈 Statistics
+
+<p align=center>
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salahmander&layout=compact&theme=dark" alt="Salah's Programming Languages" />
+</p>

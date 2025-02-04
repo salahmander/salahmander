@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center"><a href="https://www.salahabdo.co.uk//">Salah Abdo</a></h1>
+
+<p align="center">
+  <strong>Software Engineer • Frontend Engineer</strong>
+</p>
 
 <!--
 **salahmander/salahmander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

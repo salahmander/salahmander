@@ -12,9 +12,7 @@
 <a href="https://css3.com/"><img src="https://img.shields.io/badge/CSS3-blue?style=flat&logo=CSS3&logoColor=white"/></a>
 <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-rgb(8%2C146%2C208)?style=flat&logo=TailwindCSS&logoColor=rgb(0%2C20%2C168)"/></a>
 <a href="https://github.com/"/><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=GitHub&logoColor=white"/></a>
-<a href="https://git-scm.com/"/><img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git"/></a>
 <a href="https://aws.amazon.com/contact-us/?nc2=h_header"/><img src="https://img.shields.io/badge/Amazon%20AWS-rgb(255%2C127%2C0)?style=flat&logo=Amazon%20AWS&logoColor=black"/></a>
-<a href="https://vercel.com/"/><img src="https://img.shields.io/badge/Vercel-rgb(25%2C25%2C112)?style=flat&logo=Vercel&logoColor=white"/></a>
 <a href="https://www.mongodb.com/"/><img src="https://img.shields.io/badge/MongoDB-rgb(50%2C205%2C50)?style=flat&logo=MongoDB&logoColor=white&labelColor=rgb(50%2C205%2C50)"/></a>
 <hr />
 

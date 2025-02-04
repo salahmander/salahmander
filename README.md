@@ -23,7 +23,7 @@
   "name": "Salah Abdo",
   "interests": ["Software Engineer", "Frontend Engineer", "AI"],
   "skills": {
-    "frontend": ["HTML/CSS", "Tailwind CSS", "React.js/Next.js"],
+    "frontend": ["React.js/Next.js", "HTML/CSS", "Tailwind CSS"],
     "programmingLanguages": ["JavaScript/TypeScript", "Python"],
     "tools": ["Unix/Linux", "Visual Studio Code", "Git"]
   }
